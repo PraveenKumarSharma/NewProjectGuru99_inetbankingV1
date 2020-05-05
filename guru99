@@ -1,0 +1,77 @@
+App_url=https://www.facebook.com/
+#FB_Locators****************************************************
+FB_Fname_xpath=//input[@name='firstname']
+FB_Lname_cssSelector=input[aria-label='Surname']
+FB_Mobile_cssSelector=input[name='reg_email__']
+FB_Password_name=reg_passwd__
+FB_Day_name=birthday_day
+FB_Month_name=birthday_month
+FB_Year_name=birthday_year
+FB_Female_name=sex
+#FB_Inputdata****************************************************
+Fname=Tia
+Lname=Sharma
+Mobile=1234567890
+Password=12345678
+Day=12
+Month=Jun
+Year=1995
+
+
+***********************************************************************************
+hdfcbank - webfrom page for hybrid framework
+https://leads.hdfcbank.com/applications/new_webforms/apply/mobile/Credit-Card_TU.aspx?SourceCode=HNET&Promocode=P4_PrdPg_AppOnl1_JetPlat_TU
+
+------------------------------------------------------------------------------------------
+
+
+
+Access details to demo site.
+User ID :	mngr257713
+Password :	qEzarEq
+This access is valid only for 20 days.
+
+
+User ID :	mngr257813
+Password :	tudYnyp
+This access is valid only for 20 days.
+
+
+Manger Id : mngr257713
+
+Log out
+
+------------------------------------------------------------------------------------------
+An archetype which contains a sample Maven project.
+https://repo1.maven.org/maven2
+
+
+Access details to demo site.
+User ID :	mngr258815
+Password :	pubEjYg
+This access is valid only for 20 days.
+Please take SCREESNSHOT of this page for future reference.
+
+
+
+Password - git- 12June@2018
+
+
+
+
+
+chrome builder (error)
+
+run.bat(bat file and cmd with this below command)
+cd C:\Users\admin\eclipse-workspace\NewProjectGuru99
+mvn clean install
+
+-----------------------------------------------------------------------------------
+jenkins
+set path=C:\apache-maven-3.6.3\bin;C:\Windows\System32
+cd C:\Users\admin\eclipse-workspace\NewProjectGuru99
+run.bat
+
+
+
+
